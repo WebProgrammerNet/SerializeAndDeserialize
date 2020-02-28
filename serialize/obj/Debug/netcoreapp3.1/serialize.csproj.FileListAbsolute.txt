@@ -1,0 +1,13 @@
+C:\Users\Code\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\serialize.exe
+C:\Users\Code\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.AssemblyInfo.cs
+C:\Users\Code\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\serialize.deps.json
+C:\Users\Code\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\serialize.runtimeconfig.json
+C:\Users\Code\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\serialize.runtimeconfig.dev.json
+C:\Users\Code\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\serialize.dll
+C:\Users\Code\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\serialize.pdb
+C:\Users\Code\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Code\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.csproj.CopyComplete
+C:\Users\Code\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.dll
+C:\Users\Code\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.pdb
